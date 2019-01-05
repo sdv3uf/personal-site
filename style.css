@@ -139,8 +139,7 @@ h2 {
 }
 
 #contactme > a:hover, #experiencetext > a:hover {
-    background-color: #bad0ca;
-    color:white;
+    color: #bad0ca;
     -webkit-transition-duration: 0.5s;
     -moz-transition-duration: 0.5s;
     -o-transition-duration: 0.5s;
@@ -236,16 +235,6 @@ footer {
 
 }
 
-#sociallinks > a {
-    color: #bad0ca;
-}
-#sociallinks > a:hover {
-    color: #65716e;
-    -webkit-transition-duration: 0.5s;
-    -moz-transition-duration: 0.5s;
-    -o-transition-duration: 0.5s;
-    transition-duration: 0.5s;
-}
 
 .carousel-control-next-icon {
     background-image : url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%696969' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
